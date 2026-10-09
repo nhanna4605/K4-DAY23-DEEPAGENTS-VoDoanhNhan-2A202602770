@@ -1,0 +1,194 @@
+[
+  {
+    "n": 1,
+    "id": "2502.08826",
+    "url": "https://arxiv.org/abs/2502.08826",
+    "title": "Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation",
+    "date": "2025-02-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2510.04999",
+    "url": "https://arxiv.org/abs/2510.04999",
+    "title": "Bridging Text and Video Generation: A Survey",
+    "date": "2025-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2310.10647",
+    "url": "https://huggingface.co/papers/2310.10647",
+    "title": "A Survey on Video Diffusion Models",
+    "date": "2023-10-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2508.10922",
+    "url": "https://arxiv.org/abs/2508.10922",
+    "title": "A Survey on Video Temporal Grounding with Multimodal Large Language Model",
+    "date": "2025-08-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2508.00265",
+    "url": "https://arxiv.org/abs/2508.00265",
+    "title": "Multimodal Referring Segmentation: A Survey",
+    "date": "2025-08-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2503.07598",
+    "url": "https://huggingface.co/papers/2503.07598",
+    "title": "VACE: All-in-One Video Creation and Editing",
+    "date": "2025-03-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2501.00103",
+    "url": "https://huggingface.co/papers/2501.00103",
+    "title": "LTX-Video: Realtime Video Latent Diffusion",
+    "date": "2024-12-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2304.08345",
+    "url": "https://arxiv.org/abs/2304.08345",
+    "title": "VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset",
+    "date": "2023-04-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2609.29816",
+    "url": "https://arxiv.org/abs/2609.29816",
+    "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+    "date": "2026-09-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2511.21146",
+    "url": "https://arxiv.org/abs/2511.21146",
+    "title": "AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control",
+    "date": "2025-11-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2407.03418",
+    "url": "https://huggingface.co/papers/2407.03418",
+    "title": "HEMM: Holistic Evaluation of Multimodal Foundation Models",
+    "date": "2024-07-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "https://link.springer.com/article/10.1007/s10791-025-09628-9",
+    "url": "https://link.springer.com/article/10.1007/s10791-025-09628-9",
+    "title": "Bibliometric analysis and review of AI-based video generation",
+    "date": "2025-06-25",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "https://aclanthology.org/2024.emnlp-main.254.pdf",
+    "url": "https://aclanthology.org/2024.emnlp-main.254.pdf",
+    "title": "VIMI: Grounding Video Generation through Multi-modal Instruction",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2510.04999",
+    "url": "https://huggingface.co/papers/2510.04999",
+    "title": "Bridging Text and Video Generation: A Survey",
+    "date": "2025-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2308.12605",
+    "url": "https://huggingface.co/papers/2308.12605",
+    "title": "APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency",
+    "date": "2023-08-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2305.13311",
+    "url": "https://huggingface.co/papers/2305.13311",
+    "title": "VDT: General-purpose Video Diffusion Transformers via Mask Modeling",
+    "date": "2023-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2405.20279",
+    "url": "https://huggingface.co/papers/2405.20279",
+    "title": "CV-VAE: A Compatible Video VAE for Latent Generative Video Models",
+    "date": "2024-05-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2406.10591",
+    "url": "https://arxiv.org/abs/2406.10591",
+    "title": "MINT: a Multi-modal Image and Narrative Text Dubbing Dataset for Foley Audio Content Planning and Generation",
+    "date": "2024-06-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2310.05863",
+    "url": "https://arxiv.org/abs/2310.05863",
+    "title": "Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models",
+    "date": "2023-10-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2503.10522",
+    "url": "https://arxiv.org/abs/2503.10522",
+    "title": "AudioX: A Unified Framework for Anything-to-Audio Generation",
+    "date": "2025-03-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2002.06353",
+    "url": "https://arxiv.org/abs/2002.06353",
+    "title": "UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation",
+    "date": "2020-02-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2608.30125",
+    "url": "https://arxiv.org/abs/2608.30125",
+    "title": "VIBE: Video Instruction-aligned Background music gEneration",
+    "date": "2026-08-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "2402.03040",
+    "url": "https://huggingface.co/papers/2402.03040",
+    "title": "InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions",
+    "date": "2024-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2507.16869",
+    "url": "https://huggingface.co/papers/2507.16869",
+    "title": "Controllable Video Generation: A Survey",
+    "date": "2025-07-22",
+    "source": "hf-search"
+  }
+]

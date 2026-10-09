@@ -1,0 +1,106 @@
+[
+  {
+    "n": 1,
+    "id": "2606.00133",
+    "url": "https://arxiv.org/abs/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2010.05767",
+    "url": "https://arxiv.org/abs/2010.05767",
+    "title": "Smaller World Models for Reinforcement Learning",
+    "date": "2020-10-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2310.09615",
+    "url": "https://arxiv.org/abs/2310.09615",
+    "title": "STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning",
+    "date": "2023-10-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2502.20168",
+    "url": "https://arxiv.org/abs/2502.20168",
+    "title": "Accelerating Model-Based Reinforcement Learning with State-Space World Models",
+    "date": "2025-02-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2607.15330",
+    "url": "https://arxiv.org/abs/2607.15330",
+    "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+    "date": "2026-07-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2512.10675",
+    "url": "https://arxiv.org/abs/2512.10675",
+    "title": "Evaluating Gemini Robotics Policies in a Veo World Simulator",
+    "date": "2025-12-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2605.22882",
+    "url": "https://arxiv.org/abs/2605.22882",
+    "title": "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation",
+    "date": "2026-05-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2501.10100",
+    "url": "https://huggingface.co/papers/2501.10100",
+    "title": "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics",
+    "date": "2025-01-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "https://world-models.io/reports/state-of-world-models-2026/state-of-world-models-2026-v1.0.pdf",
+    "url": "https://world-models.io/reports/state-of-world-models-2026/state-of-world-models-2026-v1.0.pdf",
+    "title": "State of World Models 2026: Taxonomy, Benchmarks and Open Challenges",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2503.10480",
+    "url": "https://huggingface.co/papers/2503.10480",
+    "title": "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning",
+    "date": "2025-03-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2610.11416",
+    "url": "https://arxiv.org/abs/2610.11416",
+    "title": "Rewiring Semantics, Dynamics, and Control: A Simple yet Effective Action-Centric Tri-Stream Transformer",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2610.08720",
+    "url": "https://arxiv.org/abs/2610.08720",
+    "title": "WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2610.08760",
+    "url": "https://arxiv.org/abs/2610.08760",
+    "title": "WorldSonus: Bringing Sound to Worlds",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  }
+]

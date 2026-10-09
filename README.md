@@ -1,5 +1,39 @@
 # Deep Research Agent (Deep Agents + Sandbox)
 
+> **Bài nộp của Võ Doanh Nhân (MSSV 2A202602770).** Phần dưới đây mô tả cách chạy bài làm này; từ mục 1 trở đi là
+> tài liệu gốc của lab.
+
+## Bài nộp: cài đặt, chạy và đọc kết quả
+
+**Đã cài đặt:** `tools.py` (retry có backoff/jitter/Retry-After + 5 công cụ), `agents.py` (prompt lead/researcher/
+citation-checker, 2 subagent, giới hạn vòng lặp), `research.py` (vòng đời sandbox, `meta.json`), `check_citations.py`
+(đủ 7 quy tắc của GUIDE Phần 4). Các tệp CÓ SẴN (`model.py`, `sandbox.py`, `self_check.py`, `finalize_citations.py`)
+giữ nguyên.
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+cp .env.example .env    # điền khóa của bạn; bài này chạy với:
+                        #   LAB_BASE_URL=<endpoint tương thích OpenAI>  LAB_MODEL=gpt-4.1-mini  LAB_API_KEY=...
+                        #   SANDBOX=docker  (container Docker cục bộ, --network none)   EXA_API_KEY=... (tùy chọn)
+python tools.py                                 # thử riêng 5 công cụ (không tốn token LLM)
+python research.py "survey about world model"   # một chủ đề -> reports/<slug>.md|.sources.json|.meta.json
+python self_check.py                            # tự kiểm tra trước khi nộp (không tốn token)
+```
+
+**Đọc `reports/`:** mỗi chủ đề trong `topics.md` có ba tệp cùng `<slug>`:
+
+| Tệp | Nội dung |
+|---|---|
+| `<slug>.md` | Báo cáo (TL;DR, Background, các phần theo chủ đề, Trends and open problems, References). Mỗi `[n]` trỏ tới dòng `[n]` trong References. |
+| `<slug>.sources.json` | Danh sách nguồn `{n, id, url, title, date, source}`; `source` là công cụ đã trả về nguồn (`arxiv`, `hf-daily`, `hf-search`, `web`). |
+| `<slug>.meta.json` | Bằng chứng chạy: `model`, `elapsed_s`, `subagent_calls`, `tool_calls`, `tokens` (chỉ của lead), `n_sources`, `source_families`. |
+
+Kiểm tra trích dẫn của một báo cáo: `python3 check_citations.py reports/<slug>.md reports/<slug>.sources.json`.
+Báo cáo được tải nguyên vẹn từ sandbox (đã qua `finalize_citations.py` và validator trong sandbox), không sửa tay.
+
+---
+
 Lab dựng một **hệ thống deep research đa tác tử**: người dùng chỉ cần nhập một chủ đề (ví dụ `survey about world model`), hệ thống tự lập kế hoạch, giao việc cho nhiều subagent, tìm tài liệu trên arXiv, Hugging Face và web, rồi viết một **báo cáo có trích dẫn**.
 
 Hình thức: **bài thực hành cá nhân**. Ngôn ngữ lập trình: Python 3.11 trở lên.

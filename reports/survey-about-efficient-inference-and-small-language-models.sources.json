@@ -1,0 +1,234 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/abs/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2404.04759",
+    "url": "https://arxiv.org/abs/2404.04759",
+    "title": "What Happens When Small Is Made Smaller? Exploring the Impact of Compression on Small Data Pretrained Language Models",
+    "date": "2024-04-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2404.04759",
+    "url": "https://huggingface.co/papers/2404.04759",
+    "title": "What Happens When Small Is Made Smaller? Exploring the Impact of Compression on Small Data Pretrained Language Models",
+    "date": "2024-04-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2407.14679",
+    "url": "https://huggingface.co/papers/2407.14679",
+    "title": "Compact Language Models via Pruning and Knowledge Distillation",
+    "date": "2024-07-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2606.21075",
+    "url": "https://arxiv.org/abs/2606.21075",
+    "title": "FiLM-Coordinated Dual-Branch Transformer for Global-Local Dependency Modeling in Language Modeling",
+    "date": "2026-06-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2411.13676",
+    "url": "https://arxiv.org/abs/2411.13676",
+    "title": "Hymba: A Hybrid-head Architecture for Small Language Models",
+    "date": "2024-11-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2512.20877",
+    "url": "https://arxiv.org/abs/2512.20877",
+    "title": "Architectural Trade-offs in Small Language Models Under Compute Constraints",
+    "date": "2025-12-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2604.19299",
+    "url": "https://huggingface.co/papers/2604.19299",
+    "title": "Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms",
+    "date": "2026-04-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2606.22606",
+    "url": "https://huggingface.co/papers/2606.22606",
+    "title": "Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction",
+    "date": "2026-06-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "https://aclanthology.org/2025.acl-long.718.pdf",
+    "url": "https://aclanthology.org/2025.acl-long.718.pdf",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "https://proceedings.neurips.cc/paper/2021/file/2f3c6a4cd8af177f6456e7e51a916ff3-Paper.pdf",
+    "url": "https://proceedings.neurips.cc/paper/2021/file/2f3c6a4cd8af177f6456e7e51a916ff3-Paper.pdf",
+    "title": "Primer: Searching for Efficient Transformers for Language Modeling",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2008.05221",
+    "url": "https://arxiv.org/abs/2008.05221",
+    "title": "Compression of Deep Learning Models for Text: A Survey",
+    "date": "2020-08-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2308.07633",
+    "url": "https://huggingface.co/papers/2308.07633",
+    "title": "A Survey on Model Compression for Large Language Models",
+    "date": "2023-08-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2506.10205",
+    "url": "https://huggingface.co/papers/2506.10205",
+    "title": "AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent",
+    "date": "2025-06-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2204.00408",
+    "url": "https://huggingface.co/papers/2204.00408",
+    "title": "Structured Pruning Learns Compact and Accurate Models",
+    "date": "2022-04-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2512.21651",
+    "url": "https://arxiv.org/abs/2512.21651",
+    "title": "Rethinking Output Alignment For 1-bit Post-Training Quantization of Large Language Models",
+    "date": "2025-12-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2401.14109",
+    "url": "https://arxiv.org/abs/2401.14109",
+    "title": "CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks",
+    "date": "2024-01-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2410.11654",
+    "url": "https://arxiv.org/abs/2410.11654",
+    "title": "Transformer Layer Injection: A Novel Approach for Efficient Upscaling of Large Language Models",
+    "date": "2024-10-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2310.12442",
+    "url": "https://arxiv.org/abs/2310.12442",
+    "title": "Efficient Long-Range Transformers: You Need to Attend More, but Not Necessarily at Every Layer",
+    "date": "2023-10-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2024-09-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2203.06211",
+    "url": "https://arxiv.org/abs/2203.06211",
+    "title": "Staged Training for Transformer Language Models",
+    "date": "2022-03-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2507.03160",
+    "url": "https://huggingface.co/papers/2507.03160",
+    "title": "Assessing Small Language Models for Code Generation: An Empirical Study with Benchmarks",
+    "date": "2025-07-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2511.12576",
+    "url": "https://huggingface.co/papers/2511.12576",
+    "title": "Can Small GenAI Language Models Rival Large Language Models in Understanding Application Behavior?",
+    "date": "2025-11-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2509.26497",
+    "url": "https://huggingface.co/papers/2509.26497",
+    "title": "Revealing the Power of Post-Training for Small Language Models via Knowledge Distillation",
+    "date": "2025-09-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2412.01822",
+    "url": "https://huggingface.co/papers/2412.01822",
+    "title": "VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models",
+    "date": "2024-12-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "2602.00665",
+    "url": "https://huggingface.co/papers/2602.00665",
+    "title": "Can Small Language Models Handle Context-Summarized Multi-Turn Customer-Service QA? A Synthetic Data-Driven Comparative Evaluation",
+    "date": "2026-01-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "2511.06512",
+    "url": "https://huggingface.co/papers/2511.06512",
+    "title": "EASE: Practical and Efficient Safety Alignment for Small Language Models",
+    "date": "2025-11-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "2601.21649",
+    "url": "https://huggingface.co/papers/2601.21649",
+    "title": "SWE-Spot: Building Small Repo-Experts with Repository-Centric Learning",
+    "date": "2026-01-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 29,
+    "id": "2502.10993",
+    "url": "https://huggingface.co/papers/2502.10993",
+    "title": "RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization",
+    "date": "2025-02-16",
+    "source": "hf-search"
+  }
+]
